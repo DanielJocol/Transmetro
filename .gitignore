@@ -1,0 +1,12 @@
+﻿# .NET
+TransmetroAPI/bin/
+TransmetroAPI/obj/
+TransmetroAPI/*.user
+
+# Node / React
+transmetro-frontend/node_modules/
+transmetro-frontend/dist/
+transmetro-frontend/.env
+
+# General
+.DS_Store

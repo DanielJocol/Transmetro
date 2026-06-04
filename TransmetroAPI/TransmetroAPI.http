@@ -1,0 +1,6 @@
+@TransmetroAPI_HostAddress = http://localhost:5048
+
+GET {{TransmetroAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
